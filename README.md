@@ -9,6 +9,16 @@ This is the detail for week8-homework PORTFOLIO.
 * Update the code to the repo.
 * Create a webpage link at github in setting
 
+## Technologies used
+
+* HTML
+* JS
+* TAILWIND
+
+## License 
+
+* MIT
+
 ## Demo
 <img src="image/01.png" alt="01.png" width="300" height="200">
 <img src="image/02.png" alt="02.png" width="300" height="200">
@@ -21,3 +31,7 @@ This is the detail for week8-homework PORTFOLIO.
 ## GitHub Link
 
 [Link](https://github.com/elsa5152/Portfolio2)
+
+## Contact
+
+Elsa (elsa5152@github.com)
